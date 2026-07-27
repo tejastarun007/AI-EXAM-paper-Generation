@@ -1,0 +1,62 @@
+[
+  {
+    "topic": "OSI Model",
+    "chapter": 3,
+    "bloom_ceiling": 4,
+    "tags": [
+      "networking",
+      "layers"
+    ]
+  },
+  {
+    "topic": "TCP/IP Stack",
+    "chapter": 3,
+    "bloom_ceiling": 4,
+    "tags": [
+      "networking",
+      "protocols"
+    ]
+  },
+  {
+    "topic": "Subnetting",
+    "chapter": 4,
+    "bloom_ceiling": 5,
+    "tags": [
+      "networking",
+      "ip"
+    ]
+  },
+  {
+    "topic": "DNS Resolution",
+    "chapter": 5,
+    "bloom_ceiling": 4,
+    "tags": [
+      "networking",
+      "dns"
+    ]
+  },
+  {
+    "topic": "SQL Joins",
+    "chapter": 7,
+    "bloom_ceiling": 5,
+    "tags": [
+      "databases"
+    ]
+  },
+  {
+    "topic": "ACID Properties",
+    "chapter": 7,
+    "bloom_ceiling": 4,
+    "tags": [
+      "databases"
+    ]
+  },
+  {
+    "topic": "Normalisation",
+    "chapter": 8,
+    "bloom_ceiling": 5,
+    "tags": [
+      "databases"
+    ]
+  }
+]

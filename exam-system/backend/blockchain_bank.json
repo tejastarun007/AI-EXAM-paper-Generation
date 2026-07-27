@@ -1,0 +1,452 @@
+[
+  {
+    "text": "Explain the growth of blockchain with network view block diagram.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-01"
+  },
+  {
+    "text": "With a neat diagram, explain the generic elements of blockchain.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-02"
+  },
+  {
+    "text": "Define Blockchain. Explain the different types of blockchain.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-03"
+  },
+  {
+    "text": "Explain the following: a) CAP Theorem b) Zero-knowledge proof system.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-04"
+  },
+  {
+    "text": "What is a distributed system? Explain with a neat diagram.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-05"
+  },
+  {
+    "text": "What are the benefits and limitations of blockchain?",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-06"
+  },
+  {
+    "text": "Why is distributed system essential for blockchain technology? Explain.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-07"
+  },
+  {
+    "text": "What is consensus? Explain its mechanism. Briefly write about some of the consensus algorithms.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-08"
+  },
+  {
+    "text": "Explain decentralization in blockchain technology. What are the different methods of decentralization?",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-09"
+  },
+  {
+    "text": "Briefly explain the taxonomy of the cryptographic primitives.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-10"
+  },
+  {
+    "text": "What is public key cryptography? Explain the working of asymmetric cryptography.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-11"
+  },
+  {
+    "text": "Explain the following: a) Hash function b) Digital Signature.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-12"
+  },
+  {
+    "text": "Explain decentralization using blockchain with a neat diagram for different types of network.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-13"
+  },
+  {
+    "text": "Explain the methods of Decentralization.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-14"
+  },
+  {
+    "text": "Define cryptography. Explain the cryptographic primitives with a neat diagram.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-15"
+  },
+  {
+    "text": "Explain the role of public and private key with respect to asymmetric cryptography with a neat diagram.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Cryptography & Decentralization",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-16"
+  },
+  {
+    "text": "What is Bitcoin? Explain its emergence.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-17"
+  },
+  {
+    "text": "Write short notes on: a) Bitcoin limitations b) Litecoin.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-18"
+  },
+  {
+    "text": "Explain transactions and its life cycle.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-19"
+  },
+  {
+    "text": "Write short notes on: a) Proof-of-Work b) Proof-of-Stake.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-20"
+  },
+  {
+    "text": "What is Bitcoin? Explain public and private address in Bitcoin.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-21"
+  },
+  {
+    "text": "What is Namecoin? Explain merged mining with diagram.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-22"
+  },
+  {
+    "text": "Write short notes on: a) Primecoin b) Zcash.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-23"
+  },
+  {
+    "text": "Explain bitcoin scripting languages and their uses.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-24"
+  },
+  {
+    "text": "Write a brief on hybrid model of bitcoin.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-25"
+  },
+  {
+    "text": "Write a note on the following: a) GRAY model b) RLA model.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-26"
+  },
+  {
+    "text": "Write short notes on: a) POW as random oracle b) Bitcoin limitations c) Privacy and Anonymity.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-27"
+  },
+  {
+    "text": "What is Ethereum? Explain the components of Ethereum ecosystem with neat diagram.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-28"
+  },
+  {
+    "text": "What is a smart contract? Give some use cases.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-29"
+  },
+  {
+    "text": "Specify the properties of a smart contract.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-30"
+  },
+  {
+    "text": "Explain in detail the structure of Ethereum Virtual Machine.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-31"
+  },
+  {
+    "text": "What is Hyperledger? Discuss the Hyperledger projects.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-32"
+  },
+  {
+    "text": "Discuss how smart contracts can be deployed on a blockchain.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-33"
+  },
+  {
+    "text": "Discuss Ricardian Contracts in detail with their properties.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-34"
+  },
+  {
+    "text": "Explain the Ethereum blockchain structure.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-35"
+  },
+  {
+    "text": "Write short notes on: a) Wallets b) Smart contracts.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Ethereum & Smart Contracts",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-36"
+  },
+  {
+    "text": "How does blockchain technology benefit the health and finance industry?",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-37"
+  },
+  {
+    "text": "Write short notes on: a) IoT blockchain b) E-governance.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-38"
+  },
+  {
+    "text": "Give an example of how a government is actively promoting the use of blockchain.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-39"
+  },
+  {
+    "text": "Mention some of the alternative blockchains and explain any one in detail.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-40"
+  },
+  {
+    "text": "Explain new blockchain named solutions like Kadena and Ripple.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-41"
+  },
+  {
+    "text": "What is Interledger Protocol? Explain the 4 layers belonging to it.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-42"
+  },
+  {
+    "text": "Explain the usage of blockchain in Internet of Things (IoT).",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-43"
+  },
+  {
+    "text": "List out and explain the various applications of blockchain in E-government.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-44"
+  },
+  {
+    "text": "List out the limitations and applications of blockchain technology.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-45"
+  },
+  {
+    "text": "What are the myths vs reality of blockchain technology?",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-46"
+  },
+  {
+    "text": "Explain the following: a) Cryptocurrency b) Hyperledger Fabric.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-47"
+  },
+  {
+    "text": "Write a note on: a) E-Governance b) Contract enforcement mechanism.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Blockchain Applications",
+    "subject": "Blockchain",
+    "co": "CO3",
+    "id": "BC-48"
+  },
+  {
+    "text": "Explain about transactions life cycle in detail.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Bitcoin & Cryptocurrencies",
+    "subject": "Blockchain",
+    "co": "CO2",
+    "id": "BC-49"
+  },
+  {
+    "text": "Explain the Travelling Salesman Problem using brute force approach in blockchain context.",
+    "bloom_level": 4,
+    "marks": 10,
+    "topic": "Blockchain Fundamentals",
+    "subject": "Blockchain",
+    "co": "CO1",
+    "id": "BC-50"
+  }
+]

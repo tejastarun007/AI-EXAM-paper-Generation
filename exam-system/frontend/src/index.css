@@ -1,0 +1,123 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@theme {
+  --color-background: #0f131d;
+  --color-panel: rgba(23, 27, 38, 0.7);
+  --color-border: rgba(59, 130, 246, 0.15);
+  --color-primary: #adc6ff;
+  --color-success: #4edea3;
+  --color-danger: #ff5451;
+}
+
+@layer base {
+  body {
+    background-color: #000000;
+    color: #dfe2f1;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    /* Persistent subtle background glow */
+    background-image:
+      radial-gradient(circle at 20% 50%, rgba(59, 130, 246, 0.08) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(16, 185, 129, 0.06) 0%, transparent 50%);
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(173, 198, 255, 0.2);
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(173, 198, 255, 0.4);
+  }
+}
+
+@layer components {
+
+  /* Glass panel — consistent with login page */
+  .glass {
+    background: rgba(23, 27, 38, 0.65);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(59, 130, 246, 0.15);
+    box-shadow: 0 4px 32px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  }
+
+  /* Gradient CTA — blue to green */
+  .btn-primary {
+    background: linear-gradient(135deg, #3b82f6, #10b981);
+    color: #fff;
+    font-weight: 700;
+    transition: opacity 0.2s, transform 0.1s;
+    box-shadow: 0 0 24px rgba(59, 130, 246, 0.25);
+  }
+
+  .btn-primary:hover {
+    opacity: 0.92;
+  }
+
+  .btn-primary:active {
+    transform: scale(0.98);
+  }
+
+  /* Glow badge utility */
+  .badge-success {
+    background: rgba(78, 222, 163, 0.1);
+    border: 1px solid rgba(78, 222, 163, 0.25);
+    color: #4edea3;
+  }
+
+  .badge-primary {
+    background: rgba(173, 198, 255, 0.1);
+    border: 1px solid rgba(173, 198, 255, 0.2);
+    color: #adc6ff;
+  }
+
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+/* Fade-in animation used across pages */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.4s ease both;
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 8s linear infinite;
+}

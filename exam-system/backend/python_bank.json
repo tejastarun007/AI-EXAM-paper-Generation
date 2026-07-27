@@ -1,0 +1,542 @@
+[
+  {
+    "id": "PY-U1-01",
+    "text": "Define the term 'computer' and explain its significance in modern society.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Introduction to Computers",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U1-02",
+    "text": "Discuss the characteristics that differentiate computers from other devices.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Introduction to Computers",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U1-03",
+    "text": "Explore various uses of computers across different fields and industries.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Introduction to Computers",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U1-04",
+    "text": "Describe the types and generations of computers, highlighting their evolution.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Introduction to Computers",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U2-01",
+    "text": "Define CPU (Central Processing Unit) and elaborate on its functions.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Computer Architecture",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U2-02",
+    "text": "Discuss the role and operation of the Arithmetic Logic Unit (ALU).",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Computer Architecture",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U2-03",
+    "text": "Explain the concept of memory hierarchy and its significance in computer architecture.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Computer Architecture",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U2-04",
+    "text": "Define and discuss the functionalities of Registers and I/O devices in a computer system.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Computer Architecture",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U3-01",
+    "text": "Define the concept of problem-solving in the context of computer programming.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Problem Solving",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U3-02",
+    "text": "Discuss debugging in programming, highlighting common debugging techniques.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Debugging",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U3-03",
+    "text": "Identify and explain various types of errors encountered in programming.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Debugging",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U4-01",
+    "text": "Explain Flowcharting as a problem-solving technique.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Problem Solving",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U4-02",
+    "text": "Elaborate on Algorithms and their role in programming.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Problem Solving",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U4-03",
+    "text": "Describe the concepts of Structured programming and its importance.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Problem Solving",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U4-04",
+    "text": "Discuss Programming methodologies such as top-down and bottom-up programming and compare their advantages.",
+    "bloom_level": 4,
+    "marks": 10,
+    "topic": "Problem Solving",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U5-01",
+    "text": "Explain the Structure of a Python Program.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U5-02",
+    "text": "Discuss the Elements of the Python programming language.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U5-03",
+    "text": "Introduce Python and discuss its significance in the programming world.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U5-04",
+    "text": "Explain the functionality of the Python Interpreter.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-U6-01",
+    "text": "Provide examples demonstrating basic arithmetic operations using Python.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Operators & Expressions",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-02",
+    "text": "Explain the precedence of arithmetic operators in Python with a suitable example.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Operators & Expressions",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-03",
+    "text": "Describe the significance of Python's indentation in code structure.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-04",
+    "text": "How does the Python shell facilitate code execution and experimentation?",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-05",
+    "text": "Define and differentiate between atoms, identifiers, and keywords in Python.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-06",
+    "text": "Provide examples of valid identifiers and discuss the rules for naming identifiers.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-07",
+    "text": "Explain different types of literals in Python and provide examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Operators & Expressions",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-08",
+    "text": "Discuss the concept of strings in Python, highlighting their characteristics and operations.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Data Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U6-09",
+    "text": "List various categories of operators in Python. Provide examples illustrating the usage and functionality of two operator categories.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Operators & Expressions",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U7-01",
+    "text": "Explain different methods for accepting user input in Python.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U7-02",
+    "text": "Discuss various output formatting techniques in Python.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U7-03",
+    "text": "Differentiate between the while loop and for loop in Python. Provide examples demonstrating their usage in iterating through sequences and performing tasks.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U7-04",
+    "text": "Explain the if...else conditional statement in Python with suitable examples.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U7-05",
+    "text": "Highlight the differences among break, continue, and pass statements in Python.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-U8-01",
+    "text": "Explain the characteristics and provide scenarios where different data structures of Python would be most appropriate for usage.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Data Structures",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U8-02",
+    "text": "Discuss the usage of date and time functionalities in Python.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U8-03",
+    "text": "Explain the concept of modules and their significance in Python programming.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U8-04",
+    "text": "Detail the process of defining functions in Python, highlighting their advantages.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U8-05",
+    "text": "Discuss the purpose and usage of the exit function in Python.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U8-06",
+    "text": "Explain the concept of default arguments in Python functions with examples.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U9-01",
+    "text": "Define objects and classes in Python and discuss their relationship.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "OOP & Advanced",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U9-02",
+    "text": "Provide examples illustrating the creation and usage of classes and objects.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "OOP & Advanced",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U9-03",
+    "text": "Explain the concept of inheritance in Python.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "OOP & Advanced",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U9-04",
+    "text": "Provide examples demonstrating single and multiple inheritances in Python.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "OOP & Advanced",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U9-05",
+    "text": "Discuss the importance of regular expressions in Python and provide examples.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "OOP & Advanced",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U9-06",
+    "text": "Explain event-driven programming and its relevance in Python.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "OOP & Advanced",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-U9-07",
+    "text": "Describe the basics of GUI programming in Python and its libraries.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "OOP & Advanced",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-OLD-01",
+    "text": "Explain the following with syntax and an example: i) for loop ii) while loop iii) break iv) continue.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-OLD-02",
+    "text": "Explain how to define a function and to make a function call by passing an argument with an example.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-OLD-03",
+    "text": "Explain the salient features of Python.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-OLD-04",
+    "text": "Develop a Python program to read 2 numbers from the keyboard and perform the basic arithmetic operations based on the choice (1-Add, 2-Subtract, 3-Multiply, 4-Divide).",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-OLD-05",
+    "text": "Develop a program to print the name and year of birth of a person. Display whether the person is a senior citizen or not.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-OLD-06",
+    "text": "Develop a program to generate Fibonacci sequence of length N. Read N from the console.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-OLD-07",
+    "text": "Define variable. Explain the rules for naming the variable with an example.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Python Basics",
+    "subject": "Python Programming",
+    "co": "CO1"
+  },
+  {
+    "id": "PY-OLD-08",
+    "text": "Explain how iteration and conditional statements are used in Collatz 3n+1 sequence implementation.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-OLD-09",
+    "text": "Explain the following functions with an example: i) len() ii) int() iii) print() iv) input() v) str().",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO2"
+  },
+  {
+    "id": "PY-OLD-10",
+    "text": "Solve the following expressions: i) 10 + 6 % 4 * 2 ii) 3/2*4+3+(10/4)**3-2 iii) 5 + 3 * 3 ** 2 iv) (-3) ** 2.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Operators & Expressions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-OLD-11",
+    "text": "Explain return values in functions. Write a function that takes two numbers as arguments and returns their sum, difference, and product.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-OLD-12",
+    "text": "Write a simple program to print even numbers up to n.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Control Structures",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-OLD-13",
+    "text": "List and explain math operators used in Python with examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Operators & Expressions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  },
+  {
+    "id": "PY-OLD-14",
+    "text": "Explain the concept of recursion in Python. Write a recursive function to calculate the factorial of a given number.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Functions",
+    "subject": "Python Programming",
+    "co": "CO3"
+  }
+]

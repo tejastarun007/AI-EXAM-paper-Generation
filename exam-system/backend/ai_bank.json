@@ -1,0 +1,130 @@
+[
+  {
+    "text": "What is Artificial Intelligence? Explain its types with examples.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Introduction to AI",
+    "subject": "Artificial Intelligence",
+    "co": "CO1"
+  },
+  {
+    "text": "Briefly explain the Turing Test and its significance in AI development.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Introduction to AI",
+    "subject": "Artificial Intelligence",
+    "co": "CO1"
+  },
+  {
+    "text": "Explain the role of Genetic Algorithms in heuristic search.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Introduction to AI",
+    "subject": "Artificial Intelligence",
+    "co": "CO1"
+  },
+  {
+    "text": "Describe the PEAS framework for an AI agent with an example.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Introduction to AI",
+    "subject": "Artificial Intelligence",
+    "co": "CO1"
+  },
+  {
+    "text": "Explain how AI can be used to solve real-world problems. Provide an example.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Introduction to AI",
+    "subject": "Artificial Intelligence",
+    "co": "CO1"
+  },
+  {
+    "text": "Discuss the differences between informed and uninformed search strategies in AI.",
+    "bloom_level": 4,
+    "marks": 10,
+    "topic": "Introduction to AI",
+    "subject": "Artificial Intelligence",
+    "co": "CO1"
+  },
+  {
+    "text": "Evaluate the A* search algorithm with respect to admissibility and consistency.",
+    "bloom_level": 5,
+    "marks": 10,
+    "topic": "Introduction to AI",
+    "subject": "Artificial Intelligence",
+    "co": "CO1"
+  },
+  {
+    "text": "What is a semantic network? Explain with an example.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "Explain how frames help in storing structured knowledge in AI.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "What are the limitations of semantic networks in AI knowledge representation?",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "Compare semantic networks and First-Order Logic in terms of knowledge representation.",
+    "bloom_level": 4,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "Explain the key components of First-Order Logic (FOL) with examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "Discuss the unification algorithm in First-Order Logic.",
+    "bloom_level": 5,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "Compare semantic networks and frames in knowledge representation.",
+    "bloom_level": 4,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "What is a production rule? How is it used in knowledge representation?",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  },
+  {
+    "text": "Convert the following statement into First-Order Logic: 'All humans are mortal, and Socrates is a human.'",
+    "bloom_level": 6,
+    "marks": 10,
+    "topic": "Knowledge Representation and Reasoning",
+    "subject": "Artificial Intelligence",
+    "co": "CO2"
+  }
+]

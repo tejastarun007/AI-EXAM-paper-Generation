@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+.venv/
+
+# Node & Frontend dependencies
+node_modules/
+dist/
+build/
+
+# OS Files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Logs and runtime databases/environments
+*.log
+.env
+*.env
+.chroma/
+chroma_data/

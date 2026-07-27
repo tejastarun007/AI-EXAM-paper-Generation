@@ -1,0 +1,452 @@
+[
+  {
+    "text": "Define an algorithm. What are the characteristics of a good algorithm?",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-01"
+  },
+  {
+    "text": "Explain the fundamentals of algorithmic problem solving.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-02"
+  },
+  {
+    "text": "What is algorithm efficiency? Explain time and space complexity.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-03"
+  },
+  {
+    "text": "Define asymptotic notation. Explain Big-O notation with example.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-04"
+  },
+  {
+    "text": "Explain \u03a9 (Omega) and \u0398 (Theta) notations with examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-05"
+  },
+  {
+    "text": "Analyze the time complexity of a non-recursive algorithm with example.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-06"
+  },
+  {
+    "text": "Explain the mathematical analysis of recursive algorithms.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-07"
+  },
+  {
+    "text": "Write the Selection Sort algorithm and analyze its time complexity.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-08"
+  },
+  {
+    "text": "Explain Bubble Sort with algorithm and complexity analysis.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-09"
+  },
+  {
+    "text": "Explain Sequential Search and Brute Force String Matching.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Algorithm Analysis",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-10"
+  },
+  {
+    "text": "Explain the Exhaustive Search method with an example.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-11"
+  },
+  {
+    "text": "Explain the Travelling Salesman Problem using brute force.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-12"
+  },
+  {
+    "text": "Explain the Knapsack problem using exhaustive search.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO1",
+    "id": "ADA-13"
+  },
+  {
+    "text": "Explain Decrease-and-Conquer technique with examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-14"
+  },
+  {
+    "text": "Write the algorithm for Insertion Sort and analyze its complexity.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-15"
+  },
+  {
+    "text": "Explain Topological Sorting with example.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-16"
+  },
+  {
+    "text": "Explain Divide-and-Conquer strategy with suitable examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-17"
+  },
+  {
+    "text": "Write Merge Sort algorithm and analyze its time complexity.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-18"
+  },
+  {
+    "text": "Explain Quick Sort with algorithm and complexity analysis.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-19"
+  },
+  {
+    "text": "Explain Strassen's Matrix Multiplication method.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Brute Force & Divide and Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-20"
+  },
+  {
+    "text": "Explain Transform-and-Conquer technique.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-21"
+  },
+  {
+    "text": "Explain Balanced Search Trees.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-22"
+  },
+  {
+    "text": "Explain Heap data structure and its properties.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-23"
+  },
+  {
+    "text": "Explain Heap Sort with algorithm and complexity analysis.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-24"
+  },
+  {
+    "text": "What is Space-Time Tradeoff? Explain with example.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-25"
+  },
+  {
+    "text": "Explain Comparison Counting Sort.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-26"
+  },
+  {
+    "text": "Explain Horspool's String Matching Algorithm.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-27"
+  },
+  {
+    "text": "Compare brute force string matching with Horspool's algorithm.",
+    "bloom_level": 4,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-28"
+  },
+  {
+    "text": "Explain how input enhancement improves algorithm efficiency.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-29"
+  },
+  {
+    "text": "Write short notes on Heaps and Priority Queues.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "Transform & Conquer",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO2",
+    "id": "ADA-30"
+  },
+  {
+    "text": "Define Dynamic Programming. Explain its principles.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-31"
+  },
+  {
+    "text": "Explain the basic elements of Dynamic Programming.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-32"
+  },
+  {
+    "text": "Solve the Knapsack problem using Dynamic Programming.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-33"
+  },
+  {
+    "text": "Explain Warshall's Algorithm for transitive closure.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-34"
+  },
+  {
+    "text": "Explain Floyd's Algorithm for shortest path.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-35"
+  },
+  {
+    "text": "Explain Greedy Method with suitable examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-36"
+  },
+  {
+    "text": "Explain Prim's Algorithm for Minimum Spanning Tree.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-37"
+  },
+  {
+    "text": "Explain Kruskal's Algorithm with example.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-38"
+  },
+  {
+    "text": "Explain Dijkstra's Algorithm for shortest path.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-39"
+  },
+  {
+    "text": "Explain Huffman Coding algorithm.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "Dynamic Programming & Greedy",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-40"
+  },
+  {
+    "text": "Explain Decision Tree method for algorithm analysis.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-41"
+  },
+  {
+    "text": "Define P, NP, and NP-Complete problems.",
+    "bloom_level": 1,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-42"
+  },
+  {
+    "text": "Explain NP-Hard problems with examples.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-43"
+  },
+  {
+    "text": "Explain Backtracking technique with general algorithm.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-44"
+  },
+  {
+    "text": "Explain the N-Queens problem using Backtracking.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-45"
+  },
+  {
+    "text": "Explain Subset Sum problem using Backtracking.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-46"
+  },
+  {
+    "text": "Explain Branch-and-Bound technique.",
+    "bloom_level": 2,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-47"
+  },
+  {
+    "text": "Solve the Knapsack problem using Branch-and-Bound.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-48"
+  },
+  {
+    "text": "Explain Approximation Algorithms for NP-Hard problems.",
+    "bloom_level": 3,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-49"
+  },
+  {
+    "text": "Compare Backtracking and Branch-and-Bound methods.",
+    "bloom_level": 4,
+    "marks": 10,
+    "topic": "NP Problems & Backtracking",
+    "subject": "Analysis and Design of Algorithms",
+    "co": "CO3",
+    "id": "ADA-50"
+  }
+]
